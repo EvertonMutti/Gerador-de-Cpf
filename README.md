@@ -1,2 +1,2 @@
 # Gerador-de-Cpf
-Gerador de cpf
+Validador de cpf
